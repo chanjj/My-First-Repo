@@ -1,4 +1,4 @@
-###MASK
+###MASK :octocat:
 
 > But truly, what man doth not wear a **mask**? 
 
@@ -18,4 +18,6 @@
 
 ― *Ian Doescher*, William Shakespeare's The Empire Striketh Back
 
-[https://www.goodreads.com/quotes/7178642-but-truly-what-man-doth-not-wear-a-mask-for]
+Link to poem [here] (https://www.goodreads.com/quotes/7178642-but-truly-what-man-doth-not-wear-a-mask-for)
+
+and here: https://www.goodreads.com/quotes/7178642-but-truly-what-man-doth-not-wear-a-mask-for
